@@ -1,28 +1,48 @@
-# Android Lab Unit 5 - *ArticleSearchPt2*
+# Android Project 5 - *BitFitPart1*
 
 Submitted by: **Jerry Belardino**
 
-**ArticleSearchPt2** is an android app that displays the most recent articles from the NYTimes API and can function without an internet connection
+**Bitfit** is a health metrics app that allows users to track foods and the amount of calories
 
-Time spent: **2** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [x] Displays the most recent articles from the NYTimes api
-* [x] Users can click on an article to get more details
-* [x] The app functions without an internet connection
+- [x] **At least one health metric is tracked (based on user input)**
+  - Chosen metric(s): `Nutrition / Calories`
+- [x] **There is a "create entry" UI that prompts users to make their daily entry**
+- [x] **New entries are saved in a database and then updated in the RecyclerView**
+- [x] **On application restart, previously entered entries are preserved (i.e., are *persistent*)**
+ 
+The following **optional** features are implemented:
+
+- [ ] **Create a UI for tracking averages and trends in metrics**
+- [ ] **Improve and customize the user interface through styling and coloring**
+- [ ] **Implement orientation responsivity**
+- [ ] **Add a daily photo feature**
+
+The following **additional** features are implemented:
+
+- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+Here's a walkthrough of implemented user stories:
 
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with ScreenToGif
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with ScreenToGif  
+<!-- Recommended tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
+
+Describe any challenges encountered while building the app.
 
 ## License
 
