@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "ArticleSearch"
+rootProject.name = "BitFitPart1"
 include ':app'
